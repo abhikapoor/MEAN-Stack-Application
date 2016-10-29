@@ -18,6 +18,15 @@ Installation
 • 2: Startup the server : node server
 • 3: View in Browser at http://localhost:3000
 
+
+Here is how this Applicaton looks
+
+(docs/HOME_PAGE.jpg)
+
+(docs/ADD_USECSES.jpg)
+
+(docs/USECASES_TIMELINE.jpg)
+
 If you have any questions email me  at [abhi.kpr1@gmial.com](mailto:abhi.kpr1@gmial.com) 
 
 
