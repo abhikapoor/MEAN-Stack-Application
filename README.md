@@ -20,10 +20,13 @@ Design and implement a single-page application on MEAN Stack that displays useca
 
 
 Here is how this Applicaton looks
+## Displaying usecases by making a get request.
 ![home_page](https://cloud.githubusercontent.com/assets/8202614/19828919/b5568d1c-9dd3-11e6-82dc-da15cd156746.jpg)
 
+## Adding a new usecase by making an post request.
 ![add_usecses](https://cloud.githubusercontent.com/assets/8202614/19828918/b555a258-9dd3-11e6-8c79-1671c91108a3.jpg)
 
+## Displaying overlay of usecase over a timeline.
 ![usecases_timeline](https://cloud.githubusercontent.com/assets/8202614/19828920/b557559e-9dd3-11e6-9dce-e44fb66d4ba4.jpg)
 
 If you have any questions email me  at [abhi.kpr1@gmial.com](mailto:abhi.kpr1@gmial.com) 
