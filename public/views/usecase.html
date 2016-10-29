@@ -1,0 +1,15 @@
+<!--This View is used to display all the usecses we get from the API call-->
+
+
+<div class="card" style="max-width: 20rem; float:left; min-height: 488px; margin:.75rem; " ng-repeat="data in jsondata">  <!--ng-repeat is used to display all the contents that we get from the API call-->
+
+  <img class="card-img-top" src="images/mean-stack.jpg" alt="Card image cap">
+  <div class="card-block">
+    <h4 class="card-title">{{data.title | limitTo:40}}</h4>
+    <p class="card-text">{{data.body | limitTo:200}}</p>
+    <a href="#usecasetimeline/{{data._id}}" class="btn btn-primary"  style=" background-color: #79c928;
+    border-color: black;">Usecase Timeline</a>
+    
+  </div>
+</div>
+

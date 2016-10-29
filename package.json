@@ -1,0 +1,13 @@
+﻿{
+
+"name":"Mean Test Project",
+"description":"Test Project",
+"main":server.js,
+
+"dependencies":{
+"express" : "4.14.0",
+"mongojs" : "2.4.0",
+"body-parser":"1.15.2"
+ }
+
+}

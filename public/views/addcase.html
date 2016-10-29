@@ -1,0 +1,72 @@
+
+<!--This View is used to enter new usecse into the Mongo Database-->
+
+<div >
+
+    <h2>Add new Usecase !</h2>
+     <form name="form" style="padding: 20px;border: 2px solid #0275d8;background-color: white;border-radius: 10px;">
+     <div class="form-group">
+        <label>Title</label>
+        <input type="text" class="form-control" id="inputtitle" placeholder="Title" ng-model="usecase.title" required>
+    </div>
+    <div class="form-group">
+        <label >Body</label>
+         <textarea class="form-control" id="body" placeholder="Body" ng-model="usecase.body" required></textarea>
+    </div>
+   
+    <button type="submit" ng-disabled="form.$invalid" ng-click="addusecase()" class="btn btn-primary">Add Usecase</button>
+
+    <h3>{{usecase.message}}</h3>
+
+    </form>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
