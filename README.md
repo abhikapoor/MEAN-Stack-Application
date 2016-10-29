@@ -21,11 +21,11 @@ Installation
 
 Here is how this Applicaton looks
 
-(docs/HOME_PAGE.jpg)
+(https://github.com/abhikapoor/MEAN-Stack-Application/docs/HOME_PAGE.jpg)
 
-(docs/ADD_USECSES.jpg)
+(https://github.com/abhikapoor/MEAN-Stack-Application/docs/ADD_USECSES.jpg)
 
-(docs/USECASES_TIMELINE.jpg)
+(https://github.com/abhikapoor/MEAN-Stack-Application/docs/USECASES_TIMELINE.jpg)
 
 If you have any questions email me  at [abhi.kpr1@gmial.com](mailto:abhi.kpr1@gmial.com) 
 
