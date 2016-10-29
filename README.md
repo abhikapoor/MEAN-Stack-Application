@@ -1,10 +1,10 @@
-﻿# MEAN Stack Project
+# MEAN Stack Project
 
-Goal
+# Goal
 
 Design and implement a single-page application on MEAN Stack that displays usecases in a material design card UI. In addition, users should be able to add new usecases. 
 
-Task
+# Task
 
 • Dump the given JSON files in your (Mongo DB) database.
 • Provide this data over your API.
@@ -12,7 +12,7 @@ Task
 • Create another page for adding new usecases manually.
 • Display an overlay of milestones in a timeline when clicking on usecases that have milestones. 
 
-Installation
+# Installation
 
 • 1: Insall all npm modules given in the package.json.
 • 2: Startup the server : node server
@@ -20,12 +20,11 @@ Installation
 
 
 Here is how this Applicaton looks
+![home_page](https://cloud.githubusercontent.com/assets/8202614/19828919/b5568d1c-9dd3-11e6-82dc-da15cd156746.jpg)
 
-(https://github.com/abhikapoor/MEAN-Stack-Application/docs/HOME_PAGE.jpg)
+![add_usecses](https://cloud.githubusercontent.com/assets/8202614/19828918/b555a258-9dd3-11e6-8c79-1671c91108a3.jpg)
 
-(https://github.com/abhikapoor/MEAN-Stack-Application/docs/ADD_USECSES.jpg)
-
-(https://github.com/abhikapoor/MEAN-Stack-Application/docs/USECASES_TIMELINE.jpg)
+![usecases_timeline](https://cloud.githubusercontent.com/assets/8202614/19828920/b557559e-9dd3-11e6-9dce-e44fb66d4ba4.jpg)
 
 If you have any questions email me  at [abhi.kpr1@gmial.com](mailto:abhi.kpr1@gmial.com) 
 
